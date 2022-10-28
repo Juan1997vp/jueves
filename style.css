@@ -1,0 +1,29 @@
+#primer{
+    color: rgb(240, 241, 243);
+    background-color: rgb(15, 15, 15);
+}
+p{
+    color: aliceblue;
+}
+h1{
+    color: rgb(237, 239, 241);
+}
+h3{
+    color: rgb(39, 231, 21);
+}
+#cuatro{
+    color: green
+    ;
+
+}
+.color-red{
+    color: white;
+}
+body{
+    background-image:url(https://images5.alphacoders.com/571/thumb-1920-571559.jpg)
+    
+}
+h2{
+    color: rgb(19, 185, 85);
+    background-color: aliceblue;
+}
